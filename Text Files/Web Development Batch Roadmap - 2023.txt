@@ -1,0 +1,78 @@
+												
+						*****************************======= WEB DEVELOPMENT BATCH - 2023 =======**************************
+						1) HTML 
+						2) CSS 
+						3) JAVASCRIPT
+						4) BOOTSTRAP
+						5) GIT AND GITHUB
+									
+						1)HTML5 =>
+							. History & Introducation
+							. Syntax Information
+							. Basic Structure
+							. Basic And Advance Tags
+							. Empty Tags
+							. URL Types
+							. Linking
+							. Attributes and HTML Special Character
+							. Html Formatting/Decoration
+							. Html Table
+							. Html Block And Inline Elements
+							. Html List
+							. Forms
+							. Semantic Tags
+							. Website Structure
+							
+						2)CSS3 => 
+							. History And Introducation
+							. Syntax And Style Sheet
+							. Types Of CSS And Orders
+							. Selectors And Properties
+							. Table Designing
+							. Gradients
+							. Positions
+							. z-index
+							. Box Sizing
+							. Specificity
+							. Flex Box
+							. Grid
+							. Animation And Transition
+							. Media Queries
+							. Static Website Designing
+							
+						3)JAVASCRIPT => 
+							. History & Introducation
+							. Syntax
+							. Types And Versions(ES6 and Above)
+							. Variables
+							. Keywords
+							. Datatypes
+							. Operations
+							. Function / Inbuilt Functions
+							. Object
+							. Classes
+							. Regular Expression
+						   ** Document Object Model(DOM)
+						   ** Browser Object Model(BOM)
+						   
+						4) BOOTSTRAP => 
+							. Introducation
+							. Syntax
+							. Connectivity Of Bootstrap In Page
+							. Overview Of Bootstrap
+							. Bootstrap Grid
+							. Components
+							. Advance Components
+							. Plug-Ins
+							. Utilities
+						
+						5) GIT AND GITHUB =>
+							. Introducation
+							. VCS (Version Cntrol System)
+							. Cloud Based Solutions
+							. Introducation To GITHUB
+							. Workflow Of GITHUB
+							
+							
+						
+										
