@@ -1,0 +1,22 @@
+
+	======== Github Commands ==========
+	
+	* First Time Use Commands(Account Verification) =>
+	
+	1)git config --global user.name
+	2)git config --global user.email
+	
+	* Repository Connection Commands =>
+	
+	1) git remote add origin "repository link"
+	2) git init
+	3) git status (optional) 
+	
+	* Add And Push File Commands =>
+	
+	1) git add "file name with extension"
+	2) git commit -m "message regarding added file"
+	3) git push origin master
+	
+						
+	
